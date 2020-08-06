@@ -53,6 +53,9 @@
 
 ---
 
+![Boudhayan's github stats](https://github-readme-stats.vercel.app/api?username=boudhayan&count_private=true&show_icons=true&hide_border=true)
+
+
 [website]: https://boudhayan.com/
 [twitter]: https://twitter.com/iboudhayan_
 [linkedin]: https://www.linkedin.com/in/boudhayanbiswas/
