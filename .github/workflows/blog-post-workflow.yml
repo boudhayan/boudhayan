@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  # add 'workflow_dispatch' to manually trigger the workflow from github
   workflow_dispatch:
 
 jobs:
