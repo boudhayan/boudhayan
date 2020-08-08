@@ -54,6 +54,11 @@
 ---
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Power of String Interpolation in Swift](https://medium.com/better-programming/the-power-of-string-interpolation-in-swift-6fe392ebde6c?source=rss-f3d65570ce9f------2)
+- [Developer Checklist: What should you not miss from WWDC 2019?](https://medium.com/better-programming/developer-checklist-what-should-you-not-miss-from-wwdc-2019-ef25410dda42?source=rss-f3d65570ce9f------2)
+- [Magic Trick Revealed: Breaking the Nil-Coalescing Operator in Swift](https://medium.com/hackernoon/magic-trick-revealed-breaking-the-nil-coalescing-operator-in-swift-7f319e40e0bd?source=rss-f3d65570ce9f------2)
+- [Reference Property inside a Struct in Swift](https://medium.com/swift-india/reference-property-inside-a-struct-in-swift-a456ee70c2d3?source=rss-f3d65570ce9f------2)
+- [A Complete Anatomy of Dispatch Queue in Swift](https://medium.com/swift-india/a-complete-anatomy-of-dispatch-queue-in-swift-fa30c7628132?source=rss-f3d65570ce9f------2)
 <!-- BLOG-POST-LIST:END -->
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
