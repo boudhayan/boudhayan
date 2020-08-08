@@ -57,6 +57,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boudhayan)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boudhayan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://boudhayan.com/
 [twitter]: https://twitter.com/iboudhayan_
 [linkedin]: https://www.linkedin.com/in/boudhayanbiswas/
