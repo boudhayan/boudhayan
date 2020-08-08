@@ -55,7 +55,10 @@
 ### This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 July, 2020 - 07 August, 2020
+
+YAML       8 mins          █████████████████████░░░░   83.95 % 
+Markdown   1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
 ```
 <!--END_SECTION:waka-->
 
