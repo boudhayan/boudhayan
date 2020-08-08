@@ -52,6 +52,9 @@
 <br />
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Power of String Interpolation in Swift](https://medium.com/better-programming/the-power-of-string-interpolation-in-swift-6fe392ebde6c?source=rss-f3d65570ce9f------2)
