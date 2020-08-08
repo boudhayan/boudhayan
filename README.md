@@ -54,10 +54,14 @@
 ---
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=boudhayan&include_all_commits=true
-&show_icons=true&hide_border=true" alt="Boudhayan's github stats" />
+<a href="https://github.com/boudhayan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=boudhayan&show_icons=true&include_all_commits=true" alt="Boudhayan's github stats" />
+</a>
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=boudhayan&layout=compact" />
+<a href="https://github.com/boudhayan">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boudhayan&layout=compact" />
+</a>
 
 
 [website]: https://boudhayan.com/
