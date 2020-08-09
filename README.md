@@ -55,7 +55,7 @@
 ### This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2020 - 07 August, 2020
+Week: 01 August, 2020 - 08 August, 2020
 
 YAML       8 mins          █████████████████████░░░░   83.95 % 
 Markdown   1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
