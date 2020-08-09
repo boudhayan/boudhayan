@@ -75,9 +75,9 @@ Markdown   1 min           ████░░░░░░░░░░░░░�
 <!-- STACKOVERFLOW:START -->
 - [Answer by Boudhayan for XCode or Visual Studio ? Building Human Motion detection iOS app using iPhone camera](https://stackoverflow.com/questions/61031921/xcode-or-visual-studio-building-human-motion-detection-ios-app-using-iphone-ca/61032471#61032471)
 - [Answer by Boudhayan for Is there any way to let struct type array write to file?](https://stackoverflow.com/questions/55332534/is-there-any-way-to-let-struct-type-array-write-to-file/55337597#55337597)
-- [Comment by Boudhayan on How to populate the data from external database to UItableView in Swift](https://stackoverflow.com/questions/49972809/how-to-populate-the-data-from-external-database-to-uitableview-in-swift)
-- [Comment by Boudhayan on AES128 encryption is not properly working with key and iv and giving different output than android produces after same encryption](https://stackoverflow.com/questions/49891254/aes128-encryption-is-not-properly-working-with-key-and-iv-and-giving-different-o/49891467#49891467)
 - [Answer by Boudhayan for AES128 encryption is not properly working with key and iv and giving different output than android produces after same encryption](https://stackoverflow.com/questions/49891254/aes128-encryption-is-not-properly-working-with-key-and-iv-and-giving-different-o/49891467#49891467)
+- [Answer by Boudhayan for Is there a way to call a function when user explicitly kills the Application?](https://stackoverflow.com/questions/49628764/is-there-a-way-to-call-a-function-when-user-explicitly-kills-the-application/49628909#49628909)
+- [Answer by Boudhayan for Setting a value in CoreData crashes application](https://stackoverflow.com/questions/49621541/setting-a-value-in-coredata-crashes-application/49621769#49621769)
 <!-- STACKOVERFLOW:END -->
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
