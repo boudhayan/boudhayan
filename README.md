@@ -1,5 +1,7 @@
 ### Hi there, I'm [Boudhayan][website] 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/iboudhayan_?color=%231DA1F2&logo=twitter&style=for-the-badge)
+
 ## I'm an iOS Engineer, Python Developer, and Blogger!
 
 - 🔭 I’m currently working on a Swift Programming Course!
