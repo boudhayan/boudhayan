@@ -109,6 +109,7 @@ Markdown              1 min           ░░░░░░░░░░░░░░
 <details>
   <summary>:zap: Github Activity</summary>
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
 
 [website]: https://boudhayan.com/
