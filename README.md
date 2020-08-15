@@ -55,7 +55,7 @@
 ### This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2020 - 13 August, 2020
+Week: 07 August, 2020 - 14 August, 2020
 
 Swift                 2 hrs 10 mins   ████████████████████░░░░░   83.21 % 
 Sublime Text Config   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
