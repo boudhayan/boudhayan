@@ -83,7 +83,6 @@ Markdown              1 min           ░░░░░░░░░░░░░░
 ### Stack Overflow Activity
 
 <!-- STACKOVERFLOW:START -->
-
 - [Answer by Boudhayan for XCode or Visual Studio ? Building Human Motion detection iOS app using iPhone camera](https://stackoverflow.com/questions/61031921/xcode-or-visual-studio-building-human-motion-detection-ios-app-using-iphone-ca/61032471#61032471)
 - [Answer by Boudhayan for Is there any way to let struct type array write to file?](https://stackoverflow.com/questions/55332534/is-there-any-way-to-let-struct-type-array-write-to-file/55337597#55337597)
 - [Answer by Boudhayan for AES128 encryption is not properly working with key and iv and giving different output than android produces after same encryption](https://stackoverflow.com/questions/49891254/aes128-encryption-is-not-properly-working-with-key-and-iv-and-giving-different-o/49891467#49891467)
