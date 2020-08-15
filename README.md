@@ -93,6 +93,8 @@ Markdown              1 min           ░░░░░░░░░░░░░░
 
 \*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
+<details>
+  <summary>:zap: Github Stats</summary>
 <a href="https://github.com/boudhayan">
   <img align="center" src="https://github-readme-stats.boudhayan.vercel.app/api?username=boudhayan&show_icons=true&count_private=true" alt="Boudhayan's github stats" />
 </a>
@@ -101,6 +103,7 @@ Markdown              1 min           ░░░░░░░░░░░░░░
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.boudhayan.vercel.app/api/top-langs/?username=boudhayan&layout=compact" />
 </a>
+</details>
 
 [website]: https://boudhayan.com/
 [twitter]: https://twitter.com/iboudhayan_
