@@ -1,6 +1,7 @@
 ### Hi there, I'm [Boudhayan][website] 👋
 
 ## I'm an iOS Engineer, Python Developer, and Blogger!
+
 - 🔭 I’m currently working on a Swift Programming Course!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -12,7 +13,6 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
@@ -52,21 +52,27 @@
 <br />
 
 ---
+
 ### This week I spent my time on
+
 <!--START_SECTION:waka-->
+
 ```text
 Week: 07 August, 2020 - 14 August, 2020
 
-Swift                 2 hrs 10 mins   ████████████████████░░░░░   83.21 % 
-Sublime Text Config   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-YAML                  8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Text                  3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Swift                 2 hrs 10 mins   ████████████████████░░░░░   83.21 %
+Sublime Text Config   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+YAML                  8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Text                  3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 Markdown              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
+
 <!--END_SECTION:waka-->
 
 ### Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [The Power of String Interpolation in Swift](https://medium.com/better-programming/the-power-of-string-interpolation-in-swift-6fe392ebde6c?source=rss-f3d65570ce9f------2)
 - [Developer Checklist: What should you not miss from WWDC 2019?](https://medium.com/better-programming/developer-checklist-what-should-you-not-miss-from-wwdc-2019-ef25410dda42?source=rss-f3d65570ce9f------2)
 - [Magic Trick Revealed: Breaking the Nil-Coalescing Operator in Swift](https://medium.com/hackernoon/magic-trick-revealed-breaking-the-nil-coalescing-operator-in-swift-7f319e40e0bd?source=rss-f3d65570ce9f------2)
@@ -75,7 +81,9 @@ Markdown              1 min           ░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:END -->
 
 ### Stack Overflow Activity
+
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by Boudhayan for XCode or Visual Studio ? Building Human Motion detection iOS app using iPhone camera](https://stackoverflow.com/questions/61031921/xcode-or-visual-studio-building-human-motion-detection-ios-app-using-iphone-ca/61032471#61032471)
 - [Answer by Boudhayan for Is there any way to let struct type array write to file?](https://stackoverflow.com/questions/55332534/is-there-any-way-to-let-struct-type-array-write-to-file/55337597#55337597)
 - [Answer by Boudhayan for AES128 encryption is not properly working with key and iv and giving different output than android produces after same encryption](https://stackoverflow.com/questions/49891254/aes128-encryption-is-not-properly-working-with-key-and-iv-and-giving-different-o/49891467#49891467)
@@ -83,17 +91,16 @@ Markdown              1 min           ░░░░░░░░░░░░░░
 - [Answer by Boudhayan for Setting a value in CoreData crashes application](https://stackoverflow.com/questions/49621541/setting-a-value-in-coredata-crashes-application/49621769#49621769)
 <!-- STACKOVERFLOW:END -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 <a href="https://github.com/boudhayan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=boudhayan&show_icons=true&count_private=true" alt="Boudhayan's github stats" />
+  <img align="center" src="https://github-readme-stats.boudhayan.vercel.app/api?username=boudhayan&show_icons=true&count_private=true" alt="Boudhayan's github stats" />
 </a>
 
 <a href="https://github.com/boudhayan">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boudhayan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.boudhayan.vercel.app/api/top-langs/?username=boudhayan&layout=compact" />
 </a>
-
 
 [website]: https://boudhayan.com/
 [twitter]: https://twitter.com/iboudhayan_
