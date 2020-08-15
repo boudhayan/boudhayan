@@ -74,7 +74,6 @@ Markdown              1 min           ░░░░░░░░░░░░░░
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [The Power of String Interpolation in Swift](https://medium.com/better-programming/the-power-of-string-interpolation-in-swift-6fe392ebde6c?source=rss-f3d65570ce9f------2)
 - [Developer Checklist: What should you not miss from WWDC 2019?](https://medium.com/better-programming/developer-checklist-what-should-you-not-miss-from-wwdc-2019-ef25410dda42?source=rss-f3d65570ce9f------2)
 - [Magic Trick Revealed: Breaking the Nil-Coalescing Operator in Swift](https://medium.com/hackernoon/magic-trick-revealed-breaking-the-nil-coalescing-operator-in-swift-7f319e40e0bd?source=rss-f3d65570ce9f------2)
