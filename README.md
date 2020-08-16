@@ -58,17 +58,15 @@
 ### This week I spent my time on
 
 <!--START_SECTION:waka-->
-
 ```text
-Week: 07 August, 2020 - 14 August, 2020
+Week: 08 August, 2020 - 15 August, 2020
 
-Swift                 2 hrs 10 mins   ████████████████████░░░░░   83.21 %
-Sublime Text Config   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-YAML                  8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Text                  3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Swift                 2 hrs 10 mins   ████████████████████░░░░░   83.21 % 
+Sublime Text Config   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+YAML                  8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Text                  3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 Markdown              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
-
 <!--END_SECTION:waka-->
 
 ### Latest Blog Posts
