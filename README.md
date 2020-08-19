@@ -59,13 +59,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 August, 2020 - 17 August, 2020
+Week: 11 August, 2020 - 18 August, 2020
 
-Swift                 3 hrs           ████████████████████▓░░░░   82.30 % 
-Markdown              21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Sublime Text Config   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Text                  3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-YAML                  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Swift                 3 hrs 10 mins   ████████████████████▓░░░░   83.03 % 
+Markdown              21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Sublime Text Config   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Text                  3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+YAML                  1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
 
