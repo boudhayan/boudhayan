@@ -59,10 +59,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2020 - 22 August, 2020
+Week: 16 August, 2020 - 23 August, 2020
 
-Swift   3 hrs 32 mins   █████████████████████████   99.93 % 
-YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Swift   4 hrs 13 mins   █████████████████████████   99.94 % 
+YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 <!--END_SECTION:waka-->
 
