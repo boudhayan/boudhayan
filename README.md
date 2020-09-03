@@ -59,9 +59,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 August, 2020 - 01 September, 2020
-
-Swift   1 hr 45 mins    █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
