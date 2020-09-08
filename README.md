@@ -59,7 +59,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 August, 2020 - 07 September, 2020
+
+JavaScript   7 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
