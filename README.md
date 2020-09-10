@@ -59,7 +59,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2020 - 08 September, 2020
+Week: 02 September, 2020 - 09 September, 2020
 
 JavaScript   7 mins          █████████████████████████   100.00 % 
 ```
