@@ -59,9 +59,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2020 - 15 September, 2020
+Week: 09 September, 2020 - 16 September, 2020
 
-Python   3 mins          █████████████████████████   100.00 % 
+Python     49 mins         ████████████████████████▓   98.29 % 
 ```
 <!--END_SECTION:waka-->
 
