@@ -59,10 +59,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2020 - 23 September, 2020
+Week: 17 September, 2020 - 24 September, 2020
 
-Python       4 hrs 38 mins   █████████████████████████   99.42 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Python       3 hrs 28 mins   ████████████████████████▓   99.23 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 <!--END_SECTION:waka-->
 
