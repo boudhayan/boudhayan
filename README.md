@@ -59,11 +59,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 September, 2020 - 29 September, 2020
+Week: 23 September, 2020 - 30 September, 2020
 
-Python     3 hrs 23 mins   ██████████████████████▓░░   90.62 % 
-Markdown   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Python     2 hrs 39 mins   ████████████████████▒░░░░   80.69 % 
+Markdown   36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 <!--END_SECTION:waka-->
 
