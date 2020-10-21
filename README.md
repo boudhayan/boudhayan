@@ -59,7 +59,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2020 - 19 October, 2020
+Week: 13 October, 2020 - 20 October, 2020
 
 Python     1 hr 19 mins    █████████████████████████   99.73 % 
 ```
