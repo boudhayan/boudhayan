@@ -59,9 +59,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2020 - 22 October, 2020
+Week: 16 October, 2020 - 23 October, 2020
 
-Python     1 hr 3 mins     █████████████████████████   99.66 % 
+Makefile     42 mins         ███████▒░░░░░░░░░░░░░░░░░   29.96 % 
+YAML         41 mins         ███████▒░░░░░░░░░░░░░░░░░   28.99 % 
+Other        31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.34 % 
+Python       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Git Config   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 ```
 <!--END_SECTION:waka-->
 
