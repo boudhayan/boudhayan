@@ -59,7 +59,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2020 - 25 October, 2020
+Week: 19 October, 2020 - 26 October, 2020
 
 Makefile     42 mins         ███████▒░░░░░░░░░░░░░░░░░   29.96 % 
 YAML         41 mins         ███████▒░░░░░░░░░░░░░░░░░   28.99 % 
