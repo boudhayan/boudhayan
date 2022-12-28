@@ -1,7 +1,7 @@
 # Hi there, I'm Boudhayan 👋
 
 # 💫 About Me:
-🔭 I am currently working on a Unit Testing framework.<br>☘️ I am currently learning more about Python & C++.<br>🤔 I am looking for help with exploring DSA.<br>💬 Ask me about any tech-related stuff and geopolitical issues.<br>📸 I am doing a course on Photography.<br>📧 How to reach me - Email: hello@boudhayan.com.<br>👨🏻‍💻 Visit my website: https://www.boudhayan.com/.<br>🧐 Pronouns: He/His.<br>
+🔭 I am currently working on a Unit Testing framework.<br>☘️ I am currently learning more about Python & C++.<br>💬 Ask me about any tech-related stuff and geopolitical issues.<br>📸 I am doing a course on Photography.<br>📧 How to reach me - Email: hello@boudhayan.com.<br>👨🏻‍💻 Visit my website: https://www.boudhayan.com/.<br>🧐 Pronouns: He/His.<br>
 
 
 ## 🌐 Socials:
